@@ -1,0 +1,21 @@
+.NewVacation>form {
+    width: 300px;
+    text-align: left;
+    margin: 50px auto;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+}
+
+.NewVacation input,
+.NewVacation select,
+.NewVacation button,
+.NewVacation  {
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.button{
+    background-color: aliceblue;
+}

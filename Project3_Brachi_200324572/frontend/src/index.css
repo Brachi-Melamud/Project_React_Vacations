@@ -1,0 +1,21 @@
+html,body,#root{
+    margin:0;
+    padding:0;
+    text-align: center;
+    height:99%;
+    background-image: linear-gradient(rgb(0, 242, 255),rgb(227, 115, 10));
+    background-image: url("../public/assets/logo_best_vacations.jpg");
+    background-size: cover;
+    }
+    
+    .MuiTextField-root {
+      background: beige;
+    }
+  
+
+
+
+
+  a{
+    color:blue;
+  }
